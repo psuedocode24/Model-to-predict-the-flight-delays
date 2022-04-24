@@ -1,2 +1,2 @@
 # Model-to-predict-the-flight-delays
-A project that predicts the flight delays and cancellation rate
+A project that predicts the flight delays and cancellation rate. The project utilized machine learning techniques to make the prediction more accurate and hassle-free for its future users. The techniques include decision trees, random forests, and other boosting methods. After evaluation and comparison among different models, the selected model is the Bagged Tree approach as the final model output, with a prediction accuracy of 87.4%.
