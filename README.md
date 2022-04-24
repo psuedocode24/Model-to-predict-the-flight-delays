@@ -1,2 +1,2 @@
-# Model-to-prodict-the-flight-delays
+# Model-to-predict-the-flight-delays
 A project that predicts the flight delays and cancellation rate
